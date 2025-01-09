@@ -50,6 +50,10 @@ Here are some of the projects I've been working on:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishanand548&show_icons=true&theme=radical)
 
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishanand548&layout=compact&theme=radical)
+
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/10tan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"> </a><br>
