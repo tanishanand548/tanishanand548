@@ -17,7 +17,8 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-beige?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 
 ### Frontend Development
