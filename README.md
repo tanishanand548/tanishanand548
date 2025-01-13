@@ -1,4 +1,4 @@
-# Hi there, I'm Tanish Anand! 👋
+# Hi there, I'm Tanish Anand! 👋 
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills. Here you'll find some of the projects I've been working on.
 
