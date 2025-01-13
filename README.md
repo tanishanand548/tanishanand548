@@ -49,11 +49,11 @@ Here are some of the projects I've been working on:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishanand548&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishanand548&show_icons=true&theme=react)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishanand548&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishanand548&layout=compact&theme=react)
 
 ## Connect with Me
 
