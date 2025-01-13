@@ -1,1 +1,27 @@
+name: Update Rank
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # This runs the workflow every day at midnight UTC
+  workflow_dispatch:  # Allows you to manually trigger it
+
+jobs:
+  update-rank:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Run Python script to calculate rank
+      run: |
+        python3 script.py  # Your Python script that calculates the rank
+
+    - name: Commit updated README
+      run: |
+        git config --local user.name "GitHub Actions"
+        git config --local user.email "actions@github.com"
+        git add README.md
+        git commit -m "Update rank based on activity"
+        git push
 
