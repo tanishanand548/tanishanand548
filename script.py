@@ -27,4 +27,4 @@ if response.status_code == 200:
 
     print(f"Your GitHub activity rank: {rank}")
 else:
-    print("Failed to fetch data from GitHub API")
+    print("Failed to fetch data from GitHub API") 
