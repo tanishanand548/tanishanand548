@@ -7,7 +7,7 @@ username = "tanishanand548"
 # GitHub API URL to fetch user events (e.g., commits, pull requests)
 url = f"https://api.github.com/users/{username}/events/public"
 
-# Send a GET request to the GitHub API
+# Send a GET request to the GitHub API 
 response = requests.get(url)
 
 # Check if the request was successful
