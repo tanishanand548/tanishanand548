@@ -16,28 +16,23 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ## My Skills
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-beige?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-teal?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-lightgreen?style=flat-square&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)
 
-### Automation
-![Playwright](https://img.shields.io/badge/-Playwright-blue?style=flat-square&logo=microsoft-playwright)
+<!--### Automation
+![Playwright](https://img.shields.io/badge/-Playwright-blue?style=flat-square&logo=microsoft-playwright)-->
 
-### API
+<!--### API
 ![SOAP](https://img.shields.io/badge/-SOAP-brightgreen?style=flat-square&logo=soap)
-![Postman](https://img.shields.io/badge/-Postman-pink?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-pink?style=flat-square&logo=postman)-->
 
 <!--## Projects
 
