@@ -15,22 +15,32 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-beige?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql)
-
-### Frontend Development
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-teal?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 
-<!---### Backend Development
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/-Flask-purple?style=flat-square&logo=Flask)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 
-<!--### Automation
-![Playwright](https://img.shields.io/badge/-Playwright-blue?style=flat-square&logo=microsoft-playwright)-->
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<!--### API
-![SOAP](https://img.shields.io/badge/-SOAP-brightgreen?style=flat-square&logo=soap)
-![Postman](https://img.shields.io/badge/-Postman-pink?style=flat-square&logo=postman)-->
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Concepts
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square)
+![Authentication](https://img.shields.io/badge/-Authentication-6A1B9A?style=flat-square)
+![OOPs](https://img.shields.io/badge/-OOPs-FF9800?style=flat-square)
+![DBMS](https://img.shields.io/badge/-DBMS-795548?style=flat-square)
+
+### Gen AI
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 
 ## Projects
 
