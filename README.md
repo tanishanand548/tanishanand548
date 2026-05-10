@@ -45,10 +45,9 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ## Projects
 
 Here are some of the projects I've been working on:
-
-1. [ai-data-analysis-dashboard]([project link](https://github.com/tanishanand548/ai-data-analysis-dashboard)): An interactive data analysis web application built using Python and Streamlit that allows users to upload datasets, analyze them, visualize data, and run SQL queries.
-2. [google-authenticator_TOTP]([project link](https://github.com/tanishanand548/google-authenticator_-TOTP-)): I implemented TOTP-based 2FA similar to Google Authenticator.
-User scans a QR code which shares a secret key. Both server and app generate synchronized OTPs every 30 seconds, and I verify it during login
+1. [AI-Indian-Stock-Analysis-System]([project link](https://github.com/tanishanand548/AI-Indian-Stock-Analysis-System)): An intelligent stock analysis platform for Indian NSE stocks powered by AI, Technical Analysis, and Real-time Market Data. This project combines machine learning insights with financial expertise to provide actionable trading signals and expert analysis.
+2. [google-authenticator_TOTP]([project link](https://github.com/tanishanand548/google-authenticator_-TOTP-)): I implemented TOTP-based 2FA similar to Google Authenticator.User scans a QR code which shares a secret key. Both server and app generate synchronized OTPs every 30 seconds, and I verify it during login
+3. [ai-data-analysis-dashboard]([project link](https://github.com/tanishanand548/ai-data-analysis-dashboard)): An interactive data analysis web application built using Python and Streamlit that allows users to upload datasets, analyze them, visualize data, and run SQL queries.
 
 
 <!--## GitHub Stats
